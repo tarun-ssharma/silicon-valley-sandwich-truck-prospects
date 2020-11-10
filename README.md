@@ -9,9 +9,11 @@ Silicon valley is the global centre for tech innovation and a home to many major
   
 # Results:
 1. Number of venues per category:
+
 ![Venues](venues.png)
 
 2. Food joint clusters:
+
 ![Clusters](clusters.png)
 
 # Conclusion:
